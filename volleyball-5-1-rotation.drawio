@@ -127,6 +127,24 @@
             <mxPoint x="240" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AQSm3BmQBUWCDuCb71Ed-7" parent="zb2oqQAUZKD-O9AmmNM2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;S&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQSm3BmQBUWCDuCb71Ed-9" parent="zb2oqQAUZKD-O9AmmNM2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;D&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="200" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AQSm3BmQBUWCDuCb71Ed-11" parent="zb2oqQAUZKD-O9AmmNM2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;M&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQSm3BmQBUWCDuCb71Ed-12" parent="zb2oqQAUZKD-O9AmmNM2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;M&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="160" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AQSm3BmQBUWCDuCb71Ed-10" parent="zb2oqQAUZKD-O9AmmNM2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;A&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AQSm3BmQBUWCDuCb71Ed-13" parent="zb2oqQAUZKD-O9AmmNM2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;A&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="100" y="170" as="geometry" />
+        </mxCell>
         <mxCell id="zb2oqQAUZKD-O9AmmNM2-27" parent="zb2oqQAUZKD-O9AmmNM2-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Fira Code&quot; style=&quot;font-size: 18px;&quot;&gt;Steller 4&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="100" as="geometry" />
         </mxCell>
