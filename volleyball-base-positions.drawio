@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D4qyOkbS7B1kPhOhMhyr">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bHR2KTc_sk5DNkh509cN-45" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="800" width="340" x="140" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-15" connectable="0" parent="bHR2KTc_sk5DNkh509cN-45" style="group" value="" vertex="1">
+          <mxGeometry height="280" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-16" connectable="0" parent="bHR2KTc_sk5DNkh509cN-15" style="group" value="" vertex="1">
+          <mxGeometry height="240" width="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-17" parent="bHR2KTc_sk5DNkh509cN-16" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-18" edge="1" parent="bHR2KTc_sk5DNkh509cN-16" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="80" as="sourcePoint" />
+            <mxPoint x="240" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-20" parent="bHR2KTc_sk5DNkh509cN-16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;S&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-22" parent="bHR2KTc_sk5DNkh509cN-16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;M&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-21" parent="bHR2KTc_sk5DNkh509cN-16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;A&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-23" parent="bHR2KTc_sk5DNkh509cN-16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;M&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="100" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-24" parent="bHR2KTc_sk5DNkh509cN-16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;A&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-25" parent="bHR2KTc_sk5DNkh509cN-16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;D&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-19" parent="bHR2KTc_sk5DNkh509cN-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Fira Code&quot; style=&quot;font-size: 18px;&quot;&gt;Basis Position &quot;Steller hinten&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-34" connectable="0" parent="bHR2KTc_sk5DNkh509cN-45" style="group" value="" vertex="1">
+          <mxGeometry height="280" width="340" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-35" connectable="0" parent="bHR2KTc_sk5DNkh509cN-34" style="group" value="" vertex="1">
+          <mxGeometry height="240" width="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-36" parent="bHR2KTc_sk5DNkh509cN-35" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-37" edge="1" parent="bHR2KTc_sk5DNkh509cN-35" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="80" as="sourcePoint" />
+            <mxPoint x="240" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-38" parent="bHR2KTc_sk5DNkh509cN-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;D&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-39" parent="bHR2KTc_sk5DNkh509cN-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;M&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-40" parent="bHR2KTc_sk5DNkh509cN-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;A&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-41" parent="bHR2KTc_sk5DNkh509cN-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;M&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="100" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-42" parent="bHR2KTc_sk5DNkh509cN-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;A&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-43" parent="bHR2KTc_sk5DNkh509cN-35" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Fira Code&quot;&gt;S&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bHR2KTc_sk5DNkh509cN-44" parent="bHR2KTc_sk5DNkh509cN-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Fira Code&quot; style=&quot;font-size: 18px;&quot;&gt;Basis Position &quot;Steller vorne&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
